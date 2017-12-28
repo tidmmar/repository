@@ -1,7 +1,8 @@
 
 #
 # Solution to Project Euler problem ID 20
-# 
+# This solution hasn't been refactored yet 
+#
 # @author tidmmar
 #
 
