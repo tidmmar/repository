@@ -1,7 +1,8 @@
 
 #
 # Solution to Project Euler problem ID 20
-# 
+# This file needs to be refactored
+#
 # @author tidmmar
 #
 
