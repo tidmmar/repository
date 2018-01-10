@@ -7,6 +7,13 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
-
+lock.json
+modules.json
+terraform-provider*
 # .tfvars files
 *.tfvars
+
+#
+# AWS keys
+aws_linux.pub
+aws_linux.pem*
