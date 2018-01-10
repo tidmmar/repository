@@ -1,5 +1,6 @@
 #
 # Get AWS tags information for every EC2 resource
+# Create a dictionary of AWS tags keyed by ResourceId
 # 
 # @author tidmmar
 #
