@@ -17,3 +17,10 @@ variable "aws_amis" {
     eu-west-2 = "ami-fcc4db98"
   }
 }
+
+# Redhat
+variable "aws_rh_amis" {
+  default = {
+    eu-west-2 = "ami-c1d2caa5"
+  }
+}
